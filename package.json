@@ -1,0 +1,23 @@
+{
+    "name": "capishere",
+    "version": "1.0.0",
+    "description": "My portofolio website",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+ssh://git@github.com/captainsza/Capishere.git"
+    },
+    "author": "Zaid Ahmad",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/captainsza/Capishere/issues"
+    },
+    "homepage": "https://github.com/captainsza/Capishere#readme",
+    "dependencies": {
+        "ejs": "^3.1.9",
+        "express": "^4.18.2"
+    }
+}
